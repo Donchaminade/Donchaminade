@@ -1,7 +1,7 @@
 #
 
 <h1 align="center">
-    <p>Hi, I'm <a href="https://www.linkedin.com/in/chaminadeadjolou/">Donchaminade</a>. 👽</p>
+    <p>Hi, I'm <a href="https://www.linkedin.com/in/chaminadeadjolou/">Donchaminade</a>. 💻🪪</p>
     <a href="https://github.com/Donchaminade">
         <img align="center" width="52%" src="https://bento.me/donchaminade&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=e052a1" />
     </a> 
