@@ -48,3 +48,6 @@ Let's Connect
 </h3> -->
 
 #
+
+[![An image of @chaminadegithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaminadegithub)](https://holopin.io/@chaminadegithub)
+
