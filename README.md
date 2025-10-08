@@ -1,4 +1,11 @@
+
 #
+My Contributions
+[![An image of @chaminadegithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaminadegithub)](https://holopin.io/@chaminadegithub)
+
+#
+
+
 
 <h1 align="center">
     <p>Hi, I'm <a href="https://www.linkedin.com/in/chaminadeadjolou/">Donchaminade</a>. 💻🪪</p>
@@ -48,6 +55,4 @@ Let's Connect
 </h3> -->
 
 #
-
-[![An image of @chaminadegithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaminadegithub)](https://holopin.io/@chaminadegithub)
 
